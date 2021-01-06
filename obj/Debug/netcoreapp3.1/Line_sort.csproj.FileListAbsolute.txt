@@ -1,0 +1,13 @@
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_15_line_sort\Line_sort\bin\Debug\netcoreapp3.1\Line_sort.exe
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_15_line_sort\Line_sort\bin\Debug\netcoreapp3.1\Line_sort.deps.json
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_15_line_sort\Line_sort\bin\Debug\netcoreapp3.1\Line_sort.runtimeconfig.json
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_15_line_sort\Line_sort\bin\Debug\netcoreapp3.1\Line_sort.runtimeconfig.dev.json
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_15_line_sort\Line_sort\bin\Debug\netcoreapp3.1\Line_sort.dll
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_15_line_sort\Line_sort\bin\Debug\netcoreapp3.1\Line_sort.pdb
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_15_line_sort\Line_sort\obj\Debug\netcoreapp3.1\Line_sort.csprojAssemblyReference.cache
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_15_line_sort\Line_sort\obj\Debug\netcoreapp3.1\Line_sort.AssemblyInfoInputs.cache
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_15_line_sort\Line_sort\obj\Debug\netcoreapp3.1\Line_sort.AssemblyInfo.cs
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_15_line_sort\Line_sort\obj\Debug\netcoreapp3.1\Line_sort.csproj.CoreCompileInputs.cache
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_15_line_sort\Line_sort\obj\Debug\netcoreapp3.1\Line_sort.dll
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_15_line_sort\Line_sort\obj\Debug\netcoreapp3.1\Line_sort.pdb
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_15_line_sort\Line_sort\obj\Debug\netcoreapp3.1\Line_sort.genruntimeconfig.cache
